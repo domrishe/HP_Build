@@ -7,18 +7,15 @@ permalink: /buildlog/
 
 
 # [](#header-1) Running Build Log
-
 ### Updates posted periodically. Build started October 2022.
 
 * * *
 
 ### Print big at low cost
-
 ![Image](/assets/images/small-image.png)
 
-
 # [](#header-4) 2022.10.28
-# [](#header-3) Site deployed, prints started, most of BOM ordered.
+### Site deployed, prints started, most of BOM ordered.
 
 - Website has been deployed
     - Using Jekyll theme "Just the Docs"
