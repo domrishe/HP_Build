@@ -14,8 +14,8 @@ permalink: /buildlog/
 
 ### Small image
 
-![Image](/_site/assets/images/small-image.jpg)
+![Image](/assets/images/small-image.png)
 
 ### Large image
 
-![Image](/_site/assets/images/large-image.jpg)
+![Image](/_site/assets/images/small-image.png)

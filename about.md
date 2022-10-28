@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# [](#header-1)Header 1
+# [](#header-1)About
 
 This site is a public build log for a Hangprinter v4 built for the RISD sculpture class Open Hardware. More info on Hangprinter can be found at [hangprinter.org](https://hangprinter.org/)
 
