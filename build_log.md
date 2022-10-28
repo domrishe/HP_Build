@@ -14,7 +14,7 @@ permalink: /buildlog/
 ### Print big at low cost
 ![Image](/assets/images/small-image.png)
 
-# [](#header-4) 2022.10.28
+### 2022.10.28
 ### Site deployed, prints started, most of BOM ordered.
 
 - Website has been deployed
