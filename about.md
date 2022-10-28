@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# [](#header-1)Header 1
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This site is a public build log for a Hangprinter v4 built for the RISD sculpture class Open Hardware. More info on Hangprinter can be found at [hangprinter.org](https://hangprinter.org/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can find the source code for this website at GitHub:
+[domrishe][https://github.com/domrishe] /
+[HP_build](https://github.com/domrishe/HP_Build)
