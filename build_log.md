@@ -14,8 +14,8 @@ permalink: /buildlog/
 
 ### Small image
 
-![Image](/Users/dominicrishe/Documents/Web Projects/HP_Build/_site/assets/images/small-image.jpg)
+![Image](/_site/assets/images/small-image.jpg)
 
 ### Large image
 
-![Image](/Users/dominicrishe/Documents/Web Projects/HP_Build/_site/assets/images/large-image.jpg)
+![Image](/_site/assets/images/large-image.jpg)
