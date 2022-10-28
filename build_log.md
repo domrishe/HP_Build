@@ -16,7 +16,8 @@ permalink: /buildlog/
 
 ![Image](/assets/images/small-image.png)
 
-### October 28
+
+# [](#header-4) 2022.10.28
 # [](#header-3) Site deployed, prints started, most of BOM ordered.
 
 - Website has been deployed
