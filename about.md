@@ -15,7 +15,7 @@ Hangprinter is a 3d printer that evolved out of the RepRap project and aims to a
  I'll be building the Hangprinter v4 and modifying the printhead in some way to be able to print large and fast, either by making a high-flow nozzle and printing expanding PLA, or potentially just triggering a can of expanding insulation foam.
 
 
-Here's a look at the overall design. Instead of the usual extrusions, linear rails, etc. the printer operates on a systtem of cables in a tetrahedron arrangement.
+Here's a look at the overall design. Instead of the usual extrusions, linear rails, etc. the printer operates on a systtem of cables in a tetrahedron arrangement.s
 
  ![Image](/assets/images/diagram.png)
 
