@@ -30,7 +30,6 @@ The Duet mainboard and expansion boards, the motor controllers, and the encoders
 ### Order of operations
 
 #### Ordering Parts
-***
 
 A good first step after you decide which way to go on the configuration would be to start ordering the major parts. You can see on my copy of the BOM where I ordered everything from. Lead times were generally not much of an issue, I received most parts within a couple of weeks (a lot of the smaller parts are available on Amazon). Randomly, the ceramic eyelets which go on all the line guides took the longest, around 3 weeks (may be other suppliers). The lines themselves, which are high-end kitesurfing line made from Dyneema (extremely low stretch), took some effort to source, but I was eventually able to find them through a sailing/kite-surfing supplier named Murray's (see BOM for link).
 
@@ -38,7 +37,6 @@ A good first step after you decide which way to go on the configuration would be
 ![Image](/assets/images/2.png)
 
 #### Printed Parts
-***
 
 The link to the gitlab repo is included at the top of the BOM. Note that all of these parts are designed to be printed with no support material required during slicing. Areas that do require support have it modeled natively in the STLs (auto-generating support messed up some of my early prints).
 
@@ -47,21 +45,18 @@ The link to the gitlab repo is included at the top of the BOM. Note that all of 
 It probably makes sense to start by printing the mounts for the expansion boards first, then the motor mounts, followed by the rest of the pieces on the ceiling unit, the anchor pieces, and then the spools. You don't really need the spools until you have a mounting location scoped out and have measured out the anchor points as detailed in the documentation.
 
 #### Mounting and Assembly
-*** 
 
 The layout pdf included in the documentation will help you layout motor mounts and the line guides precisely, which is important to get right. The electronics can be arranged as needed depending on how hard you want to work to make your ceiling unit as small as possible and how neatly you want to route the cables. 
 
 ![Image](/assets/images/C.png)
 
 #### Wiring
-***
 
 Wiring documentation is technically all there, but it required me to dig into the documentation for each of the subsystems and analyze some grainy photos of Tobben's hangprinter. While this is not a bad idea just to familiarize yourself with each of the components, below is a wiring diagram I put together that can hopefully speed up the process, if desired.
 
 ![Image](/assets/images/HP_Wiring2.png)
 
 #### Firmware
-***
 
 Tobben explains the process of loading and modifying the firmware step-by-step in the documentation, but depending on your OS and configuration, it may not go exactly as explained. If you run into problems, the Discord channel is very helpful and generally responsive within a day. I'll just highlight two errors here that slowed me down in case anyone runs into something similar.
 
