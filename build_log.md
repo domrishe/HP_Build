@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Build Log
-permalink: /buildlog/
+title: Build Notes
+permalink: /buildnotes/
 ---
 
 
 
-# [](#header-1) Running Build Log
+# [](#header-1) Build Notes
 ### Updates posted periodically. Build started October 2022.
-
+The documentation for Hangprinter v4 is a bit sparse, but ultimately contains what you need to get the job done. Check out the link in the upper right to the official Hangprinter website, where you'll find links to all the relevant repos and a page with details on the build and calibration process. There's also a link in the upper right to my copy of the BOM, with links to where I bought from.
 * * *
 
 ### Print big at low cost
