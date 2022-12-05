@@ -1,26 +1,16 @@
 ---
 layout: page
-title: Lulzbot Hotend Modification
-permalink: /lulzbot_hotend_mod/
+title: Hotend Modification
+permalink: /hotend_mod/
 ---
 
 
 
-# [](#header-1) Running Build Log
-### Updates posted periodically. Build started October 2022.
+# [](#header-1) Hotend Modification
+I was generously gifted an old hotend from a Lulzbot TAZ 6, and decided to use it for the HP4. Lulzbot uses a nice french cleat system as common mounting point for a variety of hotends, and I thought incorporating this might add some modularity to the design and be a relatively easy lift. 
 
-* * *
 
-### Print big at low cost
-![Image](/assets/images/small-image.png)
+### CAD
+Here's the embedded CAD for the modified cleat. It simply does away with the Lulzbot linear rail guides and the mounting holes for the bushings, and replaces them with a small bracket to screw right into my wooden chassis. There may be a more permanent solution, but this should work for now.
 
-### 2022.10.28
-### Site deployed, prints started, most of BOM ordered.
-
-- Website has been deployed
-    - Using Jekyll theme "Just the Docs"
-- Prints started
-    - ![Failed parts](/assets/images/parts.png)
-      Sliced a bunch of parts as a test to check on orientation/prints setting, etc, and it stopped halfway through the 20-hr print. Not sure why. Also go some questionable print quality on a few of the parts. 
-- Most of BOM ordered
-    - Might be useful to put a page together with pics of the parts to help future builders with ordering
+<iframe src="https://gmail2857688.autodesk360.com/shares/public/SH9285eQTcf875d3c539a060206e80e81c21?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
